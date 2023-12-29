@@ -1,6 +1,6 @@
 Hey there! 😁
 
-I'm Alejandro. I'm the Overall Tech Lead for AI for Test & Measurement at [Emerson](https://www.emerson.com), as a software architect in the [NI](https://www.ni.com) CTO Office.
+I'm Alejandro. I'm the Overall Tech Lead for AI in Test & Measurement at [Emerson](https://www.emerson.com), as a software architect in the [NI](https://www.ni.com) CTO Office.
 
 I've been coding since I was 9 years old. I especially enjoy finding, organizing, and leading difficult engineering initiatives. Love people as much as code. You'll find me on an adventure abroad, hitting up a new restaurant, or debugging the nastiest problems late at night. Always up for a cold beer 🍺 and an "impossible" challenge! 🚀
 
