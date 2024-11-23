@@ -1,6 +1,6 @@
 Hey there! 😁
 
-I'm Alejandro. I lead AI at [Emerson](https://www.emerson.com) as a Chief Software Engineer in the Test & Measurement CTO Office.
+I'm Alejandro. I lead AI at [Emerson](https://www.emerson.com) as a Chief Software Engineer in the [Test & Measurement](https://www.ni.com) CTO Office.
 
 I've been coding since I was 9 years old. I especially enjoy finding, organizing, and leading difficult engineering initiatives. Love people as much as code. You'll find me on an adventure abroad, hitting up a new restaurant, or debugging the nastiest problems late at night. Always up for a cold beer 🍺 and an "impossible" challenge! 🚀
 
